@@ -4,16 +4,16 @@
 
 I'm a Software Engineering student passionate about building modern mobile and web applications. I enjoy turning ideas into practical, user-friendly software and continuously improving my development skills.
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 Software Engineering Student
-- 📱 Interested in Flutter & Mobile App Development
-- 🔥 Working with Firebase and Cloud Firestore
-- 🌐 Interested in Web Development
-- 💡 Passionate about learning new technologies
-- 🚀 Building real-world projects and improving my development skills
+-  Software Engineering Student
+-  Interested in Flutter & Mobile App Development
+-  Working with Firebase and Cloud Firestore
+-  Interested in Web Development
+-  Passionate about learning new technologies
+-  Building real-world projects and improving my development skills
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 **Mobile Development**
 - Flutter
@@ -34,27 +34,27 @@ I'm a Software Engineering student passionate about building modern mobile and w
 - GitHub
 - Visual Studio Code
 
-## 🌟 Featured Projects
+##  Featured Projects
 
-### 🍱 FRAD — Food Rescue & Donation App
+###  FRAD — Food Rescue & Donation App
 
 A Flutter and Firebase-based application designed to help reduce food waste by connecting food providers with customers and donation opportunities.
 
 **Tech:** Flutter, Dart, Firebase Authentication, Cloud Firestore
 
-### 💻 Personal Portfolio
+### Personal Portfolio
 
 My personal portfolio showcasing my projects, skills, and development journey.
 
 **Tech:** HTML, CSS, JavaScript
 
-### 🌐 Learnify Website
+###  Learnify Website
 
 A web development project focused on creating a modern and user-friendly learning platform interface.
 
 **Tech:** HTML, CSS, JavaScript
 
-## 📊 What I'm Currently Learning
+##  What I'm Currently Learning
 
 - Advanced Flutter Development
 - Firebase Integration
@@ -62,12 +62,12 @@ A web development project focused on creating a modern and user-friendly learnin
 - Software Engineering Practices
 - Git & GitHub
 
-## 🤝 Let's Connect
+##  Let's Connect
 
-- 💼 LinkedIn:https://www.linkedin.com/in/moumna-tariq-094948389/overlay/background-photo/
-- 🌐 Portfolio:https://moumnaportfolio.netlify.app
-- 📧 Email: moumnatariq7@gmail.com
+-  LinkedIn:https://www.linkedin.com/in/moumna-tariq-094948389/overlay/background-photo/
+-  Portfolio:https://moumnaportfolio.netlify.app
+-  Email: moumnatariq7@gmail.com
 
 ---
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
