@@ -42,6 +42,15 @@ A Flutter and Firebase-based application designed to help reduce food waste by c
 
 **Tech:** Flutter, Dart, Firebase Authentication, Cloud Firestore
 
+### Legal AI Advisor
+An AI-powered legal document processing web application designed to simplify complex employment contracts, NDAs, and Pakistani Labor Laws for employees, freelancers, and small businesses.
+
+**Tech**  
+- Backend Framework: FastAPI (Python)
+- LLM Engine: Groq API (openai/gpt-oss-120b)
+- Parsers & OCR: PyPDF, python-docx, EasyOCR
+-  Frontend: HTML5, CSS3, JavaScript
+  
 ### Personal Portfolio
 
 My personal portfolio showcasing my projects, skills, and development journey.
